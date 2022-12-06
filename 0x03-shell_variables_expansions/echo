@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e echo $(($TRUEKNOWLEDGE + 128)) 128
+echo $((2#$BINARY))
