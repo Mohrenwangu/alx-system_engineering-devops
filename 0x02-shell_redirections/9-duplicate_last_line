@@ -1,2 +1,6 @@
 #!/bin/bash
 tail -1 iacta >> iacta
+#!/bin/bash
+find . -name *.js -type f -delete
+#!/bin/bash
+find . -name *.js -type f -delete
